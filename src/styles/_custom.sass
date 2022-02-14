@@ -1,0 +1,15 @@
+.card-bg-color
+  position: relative
+  p, row, figure
+    position: relative
+  padding: 2rem 0
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    left: -3rem
+    width: calc( 100% + 6rem )
+    height: 100%
+  &__mint
+    &::before
+      background-color: #F6F6F6
