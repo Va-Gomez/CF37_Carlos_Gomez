@@ -1,8 +1,8 @@
 # **sena-base-2021 v5.1.0**
 
-## **Enlace GitHubPages**
+## **http://va-gomez.github.io/CF37_Carlos_Gomez/**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[http://va-gomez.github.io/CF37_Carlos_Gomez/](http://va-gomez.github.io/CF37_Carlos_Gomez/)
 
 #
 
