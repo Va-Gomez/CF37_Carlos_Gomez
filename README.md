@@ -1,8 +1,8 @@
 # **sena-base-2021 v5.1.0**
 
-## **https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/**
+## **https://github.com/ECORED-SENA/CF12_Prueba_Gomez_v2.git**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://github.com/ECORED-SENA/CF12_Prueba_Gomez_v2.git](https://github.com/ECORED-SENA/CF12_Prueba_Gomez_v2.git)
 
 #
 
