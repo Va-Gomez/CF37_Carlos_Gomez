@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ECORED-SENA/CF12_Prueba_Gomez_v2/](https:ECORED-SENA/CF12_Prueba_Gomez_v2/)
+[https://ecored-sena.github.io/CF12_Prueba_Gomez_v2/](https://ecored-sena.github.io/CF12_Prueba_Gomez_v2/)
 
 #
 
