@@ -1,8 +1,8 @@
-# **sena-base-2021 v5.1.0**
+# **CF12_Prueba_Gomez_v2**
 
-## **https://github.com/ECORED-SENA/CF12_Prueba_Gomez_v2.git**
+## **Enlace GitHubPages**
 
-[https://github.com/ECORED-SENA/CF12_Prueba_Gomez_v2.git](https://github.com/ECORED-SENA/CF12_Prueba_Gomez_v2.git)
+[https://ECORED-SENA/CF12_Prueba_Gomez_v2/](https:ECORED-SENA/CF12_Prueba_Gomez_v2/)
 
 #
 
